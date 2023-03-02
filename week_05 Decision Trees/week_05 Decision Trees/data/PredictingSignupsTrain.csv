@@ -1,0 +1,19 @@
+Referrer,Location,Read_FAQ,Pages_Viewed,Service_Chosen
+Slashdot,USA,Yes,Mid,None
+Google,France,Yes,High,Premium
+Digg,USA,Yes,High,Basic
+Kiwitobes,France,Yes,High,Basic
+Google,UK,No,Mid,Premium
+(direct),'New Zealand',No,Low,None
+(direct),UK,No,Mid,Basic
+Google,USA,No,High,Premium
+Slashdot,France,Yes,Mid,None
+Digg,USA,No,Mid,None
+Google,UK,No,Mid,None
+Kiwitobes,UK,No,Mid,None
+Digg,'New Zealand',Yes,Low,Basic
+Google,UK,Yes,Mid,Basic
+Kiwitobes,France,Yes,Mid,Basic
+Google,UK,No,Mid,Premium
+Digg,USA,No,Low,Basic
+Slashdot,'New Zealand',Yes,High,None
